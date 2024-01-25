@@ -1,4 +1,5 @@
 Creating a sales report in Power BI involves extracting, transforming, and visualizing sales data to gain insights and make informed business decisions. Below is a step-by-step guide to building a basic sales report in Power BI:
+<img width="499" alt="chart" src="https://github.com/Ramu3218/HR-sales-Report-using-PowerBI/assets/96521492/e2a9ee1c-6587-43a9-862d-372403adb7fa">
 
 1. Data Import:
 Connect to your data source (e.g., Excel, SQL Server, SharePoint, etc.).
